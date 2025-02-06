@@ -1,0 +1,15 @@
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\bin\Debug\net8.0\NewMethoda.exe
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\bin\Debug\net8.0\NewMethoda.deps.json
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\bin\Debug\net8.0\NewMethoda.runtimeconfig.json
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\bin\Debug\net8.0\NewMethoda.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\bin\Debug\net8.0\NewMethoda.pdb
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\obj\Debug\net8.0\NewMethoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\obj\Debug\net8.0\NewMethoda.AssemblyInfoInputs.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\obj\Debug\net8.0\NewMethoda.AssemblyInfo.cs
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\obj\Debug\net8.0\NewMethoda.csproj.CoreCompileInputs.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\obj\Debug\net8.0\NewMethoda.sourcelink.json
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\obj\Debug\net8.0\NewMethoda.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\obj\Debug\net8.0\refint\NewMethoda.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\obj\Debug\net8.0\NewMethoda.pdb
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\obj\Debug\net8.0\NewMethoda.genruntimeconfig.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day3\NewMethoda\obj\Debug\net8.0\ref\NewMethoda.dll
