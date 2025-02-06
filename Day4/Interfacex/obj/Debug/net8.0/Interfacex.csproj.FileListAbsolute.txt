@@ -1,0 +1,14 @@
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\bin\Debug\net8.0\Interfacex.exe
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\bin\Debug\net8.0\Interfacex.deps.json
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\bin\Debug\net8.0\Interfacex.runtimeconfig.json
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\bin\Debug\net8.0\Interfacex.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\bin\Debug\net8.0\Interfacex.pdb
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\obj\Debug\net8.0\Interfacex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\obj\Debug\net8.0\Interfacex.AssemblyInfoInputs.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\obj\Debug\net8.0\Interfacex.AssemblyInfo.cs
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\obj\Debug\net8.0\Interfacex.csproj.CoreCompileInputs.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\obj\Debug\net8.0\Interfacex.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\obj\Debug\net8.0\refint\Interfacex.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\obj\Debug\net8.0\Interfacex.pdb
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\obj\Debug\net8.0\Interfacex.genruntimeconfig.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day4\Interfacex\obj\Debug\net8.0\ref\Interfacex.dll
