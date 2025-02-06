@@ -1,0 +1,14 @@
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\bin\Debug\net8.0\MultiCastDelegate.exe
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\bin\Debug\net8.0\MultiCastDelegate.deps.json
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\bin\Debug\net8.0\MultiCastDelegate.runtimeconfig.json
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\bin\Debug\net8.0\MultiCastDelegate.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\bin\Debug\net8.0\MultiCastDelegate.pdb
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\obj\Debug\net8.0\MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\obj\Debug\net8.0\MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\obj\Debug\net8.0\MultiCastDelegate.AssemblyInfo.cs
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\obj\Debug\net8.0\MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\obj\Debug\net8.0\MultiCastDelegate.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\obj\Debug\net8.0\refint\MultiCastDelegate.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\obj\Debug\net8.0\MultiCastDelegate.pdb
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\obj\Debug\net8.0\MultiCastDelegate.genruntimeconfig.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day7\MultiCastDEeegate\obj\Debug\net8.0\ref\MultiCastDelegate.dll
