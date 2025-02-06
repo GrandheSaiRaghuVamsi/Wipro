@@ -1,0 +1,14 @@
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\bin\Debug\net8.0\Day6.exe
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\bin\Debug\net8.0\Day6.deps.json
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\bin\Debug\net8.0\Day6.runtimeconfig.json
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\bin\Debug\net8.0\Day6.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\bin\Debug\net8.0\Day6.pdb
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\obj\Debug\net8.0\Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\obj\Debug\net8.0\Day6.AssemblyInfoInputs.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\obj\Debug\net8.0\Day6.AssemblyInfo.cs
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\obj\Debug\net8.0\Day6.csproj.CoreCompileInputs.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\obj\Debug\net8.0\Day6.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\obj\Debug\net8.0\refint\Day6.dll
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\obj\Debug\net8.0\Day6.pdb
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\obj\Debug\net8.0\Day6.genruntimeconfig.cache
+C:\Users\Sai Raghu Vamsi\source\repos\Day6\Day6\obj\Debug\net8.0\ref\Day6.dll
